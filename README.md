@@ -26,21 +26,21 @@ python3 mern_create.py
 
 1. Go To `Environment variable` ( search it up )
 
-![alt text](image.png)
+<img width="582" alt="image" src="https://github.com/iamneek/mern_creator/assets/136208577/e8b87b7d-1435-4b9e-a6ab-29d8cb1384ef">
 
-![alt text](image-1.png)
+<img width="302" alt="image-1" src="https://github.com/iamneek/mern_creator/assets/136208577/c69c32f2-7ad7-4f1f-9c9c-8d50e6dbd3a5">
 
 2. Add The `path` to the folder where you have both the `mern_create.py` as well as `mern.bat` and save it.
 
-![alt text](image-2.png)
+<img width="445" alt="image-2" src="https://github.com/iamneek/mern_creator/assets/136208577/841eaea7-159b-442a-8dc3-eaa8a551091e">
 
-![alt text](image-3.png)
+<img width="538" alt="image-3" src="https://github.com/iamneek/mern_creator/assets/136208577/01d9ac57-b226-4e48-9e6e-dc52b15fdb75">
 
-![alt text](image-4.png)
+<img width="376" alt="image-4" src="https://github.com/iamneek/mern_creator/assets/136208577/c3f25128-850e-4695-8dd4-ce2987645b2f">
 
 3. Now you can type `mern` in any folder from terminal and it will work.
 
-![alt text](image-5.png)
+<img width="234" alt="image-5" src="https://github.com/iamneek/mern_creator/assets/136208577/6a16d6d8-3642-44a3-afb9-596cf2cc0f94">
 
 ---
 
