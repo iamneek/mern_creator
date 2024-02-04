@@ -30,8 +30,8 @@ export default {
   plugins: [],
 }
 """
-    with open('tailwind.config.js', 'w') as twconfig:
-        twconfig.write(data.strip())
+        with open('tailwind.config.js', 'w') as twconfig:
+            twconfig.write(data.strip())
     if package_new_inquire == "":
         try:
             if tailwind == 'y':
