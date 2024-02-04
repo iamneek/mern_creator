@@ -1,4 +1,4 @@
-# MERN Creator Script v0.1 🐍
+# MERN Creator Script v0.11 🐍
 
 > This script will help you use premade setup for **MERN stack** application, you can use this script inside any folder and it will generate two folder: `Client` which has frontend and `Server` which has backend.
 > <br> <br> <img valign="middle" src="https://img.shields.io/badge/Made With-Python 🐍-gold.svg"><br><br><img valign="middle" src="https://img.shields.io/badge/Supports-Windows 🪟-blue.svg"><br><br>
